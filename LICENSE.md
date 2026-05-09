@@ -1,4 +1,4 @@
-
+Obsidian for Windows rare Script: rich-text-editing & cloud-sync offers the most advanced Obsidian for Windows script, with rich-text-editing and cloud-sync. Ideal for Windows
 
 
 
